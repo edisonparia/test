@@ -7,5 +7,34 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "invoice":[
+   {
+      "invoice_number": "12345",
+      "total": "199.99",
+      "currency": "USD",
+      "invoice_date": "2019-08-17",
+      "due_date": "2019-09-17",
+      "vendor_name": "Acme Cleaners Inc.",
+      "remittance_address": "123 ABC St. Charlotte, NC 28209"
+   },
+   {
+      "invoice_number": "12346",
+      "total": "299.99",
+      "currency": "USD",
+      "invoice_date": "2019-08-17",
+      "due_date": "2019-09-17",
+      "vendor_name": "Acme Cleaners Inc.",
+      "remittance_address": "321 MNP St. Charlotte, NC 28209"
+   },
+   {
+      "invoice_number": "12347",
+      "total": "399.99",
+      "currency": "USD",
+      "invoice_date": "2019-08-17",
+      "due_date": "2019-09-17",
+      "vendor_name": "Acme Cleaners Inc.",
+      "remittance_address": "789 XYZ St. Charlotte, NC 28209"
+   }
+]
 }
